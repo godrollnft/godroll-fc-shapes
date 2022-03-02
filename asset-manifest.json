@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/godroll-fc-shapes/static/css/main.76598800.chunk.css",
-    "main.js": "/godroll-fc-shapes/static/js/main.c132dfbf.chunk.js",
-    "main.js.map": "/godroll-fc-shapes/static/js/main.c132dfbf.chunk.js.map",
+    "main.js": "/godroll-fc-shapes/static/js/main.9821da73.chunk.js",
+    "main.js.map": "/godroll-fc-shapes/static/js/main.9821da73.chunk.js.map",
     "runtime-main.js": "/godroll-fc-shapes/static/js/runtime-main.f5b70afb.js",
     "runtime-main.js.map": "/godroll-fc-shapes/static/js/runtime-main.f5b70afb.js.map",
-    "static/js/2.279aff77.chunk.js": "/godroll-fc-shapes/static/js/2.279aff77.chunk.js",
-    "static/js/2.279aff77.chunk.js.map": "/godroll-fc-shapes/static/js/2.279aff77.chunk.js.map",
+    "static/js/2.f15d327d.chunk.js": "/godroll-fc-shapes/static/js/2.f15d327d.chunk.js",
+    "static/js/2.f15d327d.chunk.js.map": "/godroll-fc-shapes/static/js/2.f15d327d.chunk.js.map",
     "static/js/3.9ddd60d4.chunk.js": "/godroll-fc-shapes/static/js/3.9ddd60d4.chunk.js",
     "static/js/3.9ddd60d4.chunk.js.map": "/godroll-fc-shapes/static/js/3.9ddd60d4.chunk.js.map",
     "index.html": "/godroll-fc-shapes/index.html",
     "static/css/main.76598800.chunk.css.map": "/godroll-fc-shapes/static/css/main.76598800.chunk.css.map",
-    "static/js/2.279aff77.chunk.js.LICENSE.txt": "/godroll-fc-shapes/static/js/2.279aff77.chunk.js.LICENSE.txt"
+    "static/js/2.f15d327d.chunk.js.LICENSE.txt": "/godroll-fc-shapes/static/js/2.f15d327d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5b70afb.js",
-    "static/js/2.279aff77.chunk.js",
+    "static/js/2.f15d327d.chunk.js",
     "static/css/main.76598800.chunk.css",
-    "static/js/main.c132dfbf.chunk.js"
+    "static/js/main.9821da73.chunk.js"
   ]
 }
