@@ -85,6 +85,12 @@ const App = () => {
   return (
       <ThemeProvider theme={theme}>
         <ConnectionProvider endpoint={endpoint}>
+          <h1>Forever Shapes</h1>
+          <p>The human brain likes shapes, patterns, and fluid movements.<br />
+            JustShapes are NFTs minted on the Solana blockchain.<br />
+            100% of royalities go to the Forever Charity.<br />
+            Mint Price = 0.25 SOL
+          </p>
           <WalletProvider wallets={wallets} autoConnect={true}>
             <WalletDialogProvider>
               <Home
@@ -98,6 +104,7 @@ const App = () => {
             </WalletDialogProvider>
           </WalletProvider>
         </ConnectionProvider>
+        <h3>God Roll Bros ForeverDAO project</h3>
       </ThemeProvider>
   );
 };
